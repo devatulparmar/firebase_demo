@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062738856142",
+    "project_id": "fierbasedemo-336eb",
+    "storage_bucket": "fierbasedemo-336eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062738856142:android:72e1ca5ff5465f7c0ea89f",
+        "android_client_info": {
+          "package_name": "com.weltec.firebase_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-kHZoMhryv2g8Q6EHlDhT6FIyULb4aPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
